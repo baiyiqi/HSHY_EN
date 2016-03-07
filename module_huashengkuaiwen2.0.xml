@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_huashengkuaiwen2.0" default="compile.module.huashengkuaiwen2.0">
+  <dirname property="module.huashengkuaiwen2.0.basedir" file="${ant.file.module_huashengkuaiwen2.0}"/>
+  
+  <property name="module.jdk.home.huashengkuaiwen2.0" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.huashengkuaiwen2.0" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.huashengkuaiwen2.0" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.huashengkuaiwen2.0" value="-encoding UTF-8 -source 1.6 ${compiler.args}"/>
+  
+  <property name="huashengkuaiwen2.0.output.dir" value="${module.huashengkuaiwen2.0.basedir}/out/production/HuaShengKuaiWen2.0"/>
+  <property name="huashengkuaiwen2.0.testoutput.dir" value="${module.huashengkuaiwen2.0.basedir}/out/test/HuaShengKuaiWen2.0"/>
+  
+  <path id="huashengkuaiwen2.0.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="huashengkuaiwen2.0.module.production.classpath">
+    <path refid="${module.jdk.classpath.huashengkuaiwen2.0}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  <path id="huashengkuaiwen2.0.runtime.production.module.classpath">
+    <pathelement location="${huashengkuaiwen2.0.output.dir}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  <path id="huashengkuaiwen2.0.module.classpath">
+    <path refid="${module.jdk.classpath.huashengkuaiwen2.0}"/>
+    <pathelement location="${huashengkuaiwen2.0.output.dir}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  <path id="huashengkuaiwen2.0.runtime.module.classpath">
+    <pathelement location="${huashengkuaiwen2.0.testoutput.dir}"/>
+    <pathelement location="${huashengkuaiwen2.0.output.dir}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.huashengkuaiwen2.0">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.huashengkuaiwen2.0">
+    <patternset refid="excluded.from.module.huashengkuaiwen2.0"/>
+  </patternset>
+  
+  <path id="huashengkuaiwen2.0.module.sourcepath">
+    <dirset dir="${module.huashengkuaiwen2.0.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.huashengkuaiwen2.0" depends="compile.module.huashengkuaiwen2.0.production,compile.module.huashengkuaiwen2.0.tests" description="Compile module HuaShengKuaiWen2.0"/>
+  
+  <target name="compile.module.huashengkuaiwen2.0.production" depends="register.custom.compilers" description="Compile module HuaShengKuaiWen2.0; production classes">
+    <mkdir dir="${huashengkuaiwen2.0.output.dir}"/>
+    <javac2 destdir="${huashengkuaiwen2.0.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.huashengkuaiwen2.0}/javac">
+      <compilerarg line="${compiler.args.huashengkuaiwen2.0}"/>
+      <bootclasspath refid="huashengkuaiwen2.0.module.bootclasspath"/>
+      <classpath refid="huashengkuaiwen2.0.module.production.classpath"/>
+      <src refid="huashengkuaiwen2.0.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.huashengkuaiwen2.0"/>
+    </javac2>
+    
+    <copy todir="${huashengkuaiwen2.0.output.dir}">
+      <fileset dir="${module.huashengkuaiwen2.0.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.huashengkuaiwen2.0.tests" depends="register.custom.compilers,compile.module.huashengkuaiwen2.0.production" description="compile module HuaShengKuaiWen2.0; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.huashengkuaiwen2.0" description="cleanup module">
+    <delete dir="${huashengkuaiwen2.0.output.dir}"/>
+    <delete dir="${huashengkuaiwen2.0.testoutput.dir}"/>
+  </target>
+</project>

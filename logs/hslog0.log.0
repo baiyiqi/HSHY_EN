@@ -1,0 +1,4230 @@
+Jan 10, 2016 3:04:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:04:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:04:26 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:04:28 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:04:28 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:08:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:08:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:08:51 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:08:53 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:08:53 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:08:56 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 111]
+Jan 10, 2016 3:08:59 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:09:00 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:09:01 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:09:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:09:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:09:25 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:09:27 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:09:27 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:09:30 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 111]
+Jan 10, 2016 3:09:33 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:09:33 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:09:35 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:12:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:12:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:12:54 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:12:55 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:12:55 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:13:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:13:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:13:44 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:13:45 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:13:45 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:13:57 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 111]
+Jan 10, 2016 3:15:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:15:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:15:40 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:16:00 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 111]
+Jan 10, 2016 3:21:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:21:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:21:24 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:25:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:25:12 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:25:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:25:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:25:47 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:25:55 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 111]
+Jan 10, 2016 3:25:55 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:25:55 AM Log.Logs info
+INFO: 排序好的新闻是 52
+Jan 10, 2016 3:25:55 AM Log.Logs info
+INFO: 最终新闻 31
+Jan 10, 2016 3:25:57 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 31(1451628000)]
+Jan 10, 2016 3:25:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:26:01 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 3:26:07 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 96]
+Jan 10, 2016 3:26:07 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:26:07 AM Log.Logs info
+INFO: 排序好的新闻是 7
+Jan 10, 2016 3:26:07 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:26:07 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451635200)]
+Jan 10, 2016 3:26:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 3:26:34 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 3:26:37 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 57]
+Jan 10, 2016 3:26:37 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:26:37 AM Log.Logs info
+INFO: 排序好的新闻是 25
+Jan 10, 2016 3:26:37 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 3:26:39 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1451714400)]
+Jan 10, 2016 3:26:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 3:26:41 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 3:26:44 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 46]
+Jan 10, 2016 3:26:44 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:26:44 AM Log.Logs info
+INFO: 排序好的新闻是 5
+Jan 10, 2016 3:26:44 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:26:44 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 3:26:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:26:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:27:12 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 3:27:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 46]
+Jan 10, 2016 3:27:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:27:16 AM Log.Logs info
+INFO: 排序好的新闻是 3
+Jan 10, 2016 3:27:16 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:27:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451793600)]
+Jan 10, 2016 3:27:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:27:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 3:27:18 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 3:28:07 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 46]
+Jan 10, 2016 3:28:07 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:28:07 AM Log.Logs info
+INFO: 排序好的新闻是 26
+Jan 10, 2016 3:28:07 AM Log.Logs info
+INFO: 最终新闻 20
+Jan 10, 2016 3:28:10 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 20(1451800800)]
+Jan 10, 2016 3:28:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:28:23 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:28:30 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 121]
+Jan 10, 2016 3:28:30 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:28:30 AM Log.Logs info
+INFO: 最终新闻 31
+Jan 10, 2016 3:28:33 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 31(1451628000)]
+Jan 10, 2016 3:28:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:28:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:28:35 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 3:29:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:29:34 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:29:39 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 121]
+Jan 10, 2016 3:29:39 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:29:39 AM Log.Logs info
+INFO: 最终新闻 31
+Jan 10, 2016 3:29:43 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 31(1451628000)]
+Jan 10, 2016 3:29:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:29:45 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 3:29:49 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 106]
+Jan 10, 2016 3:29:49 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:29:49 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:29:50 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451635200)]
+Jan 10, 2016 3:29:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:29:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:30:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:30:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:30:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:30:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 3:30:08 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 3:30:12 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 67]
+Jan 10, 2016 3:30:12 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:30:12 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 3:30:14 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1451714400)]
+Jan 10, 2016 3:30:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:30:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 3:30:15 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 3:31:33 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 56]
+Jan 10, 2016 3:31:33 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:31:33 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:31:33 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 3:31:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:31:43 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 3:31:49 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 56]
+Jan 10, 2016 3:31:49 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:31:49 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:31:49 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451793600)]
+Jan 10, 2016 3:31:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 3:31:50 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 3:31:56 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 56]
+Jan 10, 2016 3:31:56 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:31:56 AM Log.Logs info
+INFO: 最终新闻 10
+Jan 10, 2016 3:31:57 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 10(1451800800)]
+Jan 10, 2016 3:31:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:31:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:31:59 AM Log.Logs info
+INFO:  ---------------------- 1451815200  ------------------------
+Jan 10, 2016 3:32:03 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 51]
+Jan 10, 2016 3:32:03 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:32:03 AM Log.Logs info
+INFO: 最终新闻 4
+Jan 10, 2016 3:32:04 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 4(1451808000)]
+Jan 10, 2016 3:32:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:32:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 3:32:07 AM Log.Logs info
+INFO:  ---------------------- 1451822400  ------------------------
+Jan 10, 2016 3:33:36 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 51]
+Jan 10, 2016 3:33:36 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:33:36 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 3:33:38 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451815200)]
+Jan 10, 2016 3:33:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:33:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:33:40 AM Log.Logs info
+INFO:  ---------------------- 1451829600  ------------------------
+Jan 10, 2016 3:33:47 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 51]
+Jan 10, 2016 3:33:47 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:33:47 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:33:47 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451822400)]
+Jan 10, 2016 3:33:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:33:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 3:33:49 AM Log.Logs info
+INFO:  ---------------------- 1451836800  ------------------------
+Jan 10, 2016 3:33:53 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 51]
+Jan 10, 2016 3:33:53 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:33:53 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 3:33:56 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451829600)]
+Jan 10, 2016 3:33:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:33:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:33:59 AM Log.Logs info
+INFO:  ---------------------- 1451844000  ------------------------
+Jan 10, 2016 3:34:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:34:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:34:06 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:35:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:35:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:35:30 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:37:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:37:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:37:07 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:41:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:41:34 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:41:35 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:41:35 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:41:42 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 153]
+Jan 10, 2016 3:41:46 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:41:47 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:41:48 AM Log.Logs info
+INFO: 最终新闻 30
+Jan 10, 2016 3:41:53 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 30(1451628000)]
+Jan 10, 2016 3:41:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:41:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:41:54 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 3:41:56 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:41:56 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:42:03 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 153]
+Jan 10, 2016 3:42:07 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:42:08 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:42:11 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451635200)]
+Jan 10, 2016 3:42:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 3:42:23 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 3:42:24 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:42:24 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:42:30 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 122]
+Jan 10, 2016 3:42:34 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:42:34 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:42:35 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 3:42:38 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1451714400)]
+Jan 10, 2016 3:42:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:42:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 3:42:39 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 3:42:40 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:42:40 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:42:45 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 3:43:43 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:43:44 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:43:50 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 3:43:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:43:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:43:59 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 3:44:00 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:44:00 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:44:07 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 3:44:13 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:44:13 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:44:14 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451793600)]
+Jan 10, 2016 3:44:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:44:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 3:44:16 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 3:44:16 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:44:16 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:44:23 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 68]
+Jan 10, 2016 3:44:27 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:44:28 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:44:31 AM Log.Logs info
+INFO: 最终新闻 10
+Jan 10, 2016 3:44:33 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 10(1451800800)]
+Jan 10, 2016 3:44:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:44:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:44:34 AM Log.Logs info
+INFO:  ---------------------- 1451815200  ------------------------
+Jan 10, 2016 3:44:35 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:44:35 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:44:40 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 57]
+Jan 10, 2016 3:45:50 AM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Jan 10, 2016 3:45:51 AM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO:  classifier updated
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO: Popurank updated
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO: HSProcessor updated
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO: DetectorInfo : Updated
+Jan 10, 2016 3:45:52 AM Log.Logs info
+INFO: 最终新闻 4
+Jan 10, 2016 3:45:53 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 4(1451808000)]
+Jan 10, 2016 3:45:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:45:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 3:45:54 AM Log.Logs info
+INFO:  ---------------------- 1451822400  ------------------------
+Jan 10, 2016 3:45:55 AM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Jan 10, 2016 3:45:55 AM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Jan 10, 2016 3:48:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:48:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:48:30 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:49:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:49:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:49:46 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:50:46 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 113]
+Jan 10, 2016 3:50:46 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:50:46 AM Log.Logs info
+INFO: 最终新闻 45
+Jan 10, 2016 3:50:56 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 45(1451628000)]
+Jan 10, 2016 3:50:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:50:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:50:58 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 3:51:04 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 128]
+Jan 10, 2016 3:51:04 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:51:04 AM Log.Logs info
+INFO: 最终新闻 3
+Jan 10, 2016 3:51:05 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 3(1451635200)]
+Jan 10, 2016 3:51:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 3:51:18 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 3:51:24 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 99]
+Jan 10, 2016 3:51:24 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:51:24 AM Log.Logs info
+INFO: 最终新闻 21
+Jan 10, 2016 3:51:29 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 21(1451714400)]
+Jan 10, 2016 3:51:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:51:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 3:51:30 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 3:53:03 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 93]
+Jan 10, 2016 3:53:03 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:53:03 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 3:53:05 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 3:53:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:53:14 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 3:53:18 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 93]
+Jan 10, 2016 3:53:18 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:53:18 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:53:18 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451793600)]
+Jan 10, 2016 3:53:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 3:53:19 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 3:53:23 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 54]
+Jan 10, 2016 3:53:23 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:53:23 AM Log.Logs info
+INFO: 最终新闻 20
+Jan 10, 2016 3:53:28 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 20(1451800800)]
+Jan 10, 2016 3:53:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:53:29 AM Log.Logs info
+INFO:  ---------------------- 1451815200  ------------------------
+Jan 10, 2016 3:53:35 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 53]
+Jan 10, 2016 3:53:35 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:53:35 AM Log.Logs info
+INFO: 最终新闻 4
+Jan 10, 2016 3:53:37 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 4(1451808000)]
+Jan 10, 2016 3:53:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:53:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 3:53:38 AM Log.Logs info
+INFO:  ---------------------- 1451822400  ------------------------
+Jan 10, 2016 3:54:33 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 53]
+Jan 10, 2016 3:54:33 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:54:33 AM Log.Logs info
+INFO: 最终新闻 10
+Jan 10, 2016 3:54:39 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 10(1451815200)]
+Jan 10, 2016 3:54:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:54:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:54:40 AM Log.Logs info
+INFO:  ---------------------- 1451829600  ------------------------
+Jan 10, 2016 3:54:45 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 55]
+Jan 10, 2016 3:54:45 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:54:45 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:54:45 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451822400)]
+Jan 10, 2016 3:54:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:54:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 3:54:46 AM Log.Logs info
+INFO:  ---------------------- 1451836800  ------------------------
+Jan 10, 2016 3:54:50 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 55]
+Jan 10, 2016 3:54:50 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:54:50 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 3:54:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451829600)]
+Jan 10, 2016 3:54:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:54:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 3:54:53 AM Log.Logs info
+INFO:  ---------------------- 1451844000  ------------------------
+Jan 10, 2016 3:54:57 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 56]
+Jan 10, 2016 3:54:57 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:54:57 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 3:54:57 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451836800)]
+Jan 10, 2016 3:54:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:55:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 104 ]
+Jan 10, 2016 3:55:30 AM Log.Logs info
+INFO:  ---------------------- 1451937600  ------------------------
+Jan 10, 2016 3:56:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:56:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:56:39 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:56:45 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 152]
+Jan 10, 2016 3:56:45 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:56:45 AM Log.Logs info
+INFO: 最终新闻 30
+Jan 10, 2016 3:56:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 30(1451628000)]
+Jan 10, 2016 3:57:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:57:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 3:57:36 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 3:58:59 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 113]
+Jan 10, 2016 3:58:59 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 3:58:59 AM Log.Logs info
+INFO: 最终新闻 45
+Jan 10, 2016 3:59:09 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 45(1451628000)]
+Jan 10, 2016 3:59:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 3:59:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 3:59:11 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:00:26 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 128]
+Jan 10, 2016 4:00:27 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:00:27 AM Log.Logs info
+INFO: 最终新闻 3
+Jan 10, 2016 4:00:29 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 3(1451635200)]
+Jan 10, 2016 4:00:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:00:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:00:39 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 4:01:52 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 99]
+Jan 10, 2016 4:01:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:01:52 AM Log.Logs info
+INFO: 最终新闻 21
+Jan 10, 2016 4:02:03 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 21(1451714400)]
+Jan 10, 2016 4:02:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 4:02:04 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 4:02:11 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 93]
+Jan 10, 2016 4:02:11 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:02:11 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:02:11 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 4:02:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:02:20 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 4:02:25 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 93]
+Jan 10, 2016 4:02:25 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:02:25 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:02:25 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451793600)]
+Jan 10, 2016 4:02:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 4:02:26 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 4:02:29 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 54]
+Jan 10, 2016 4:02:29 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:02:29 AM Log.Logs info
+INFO: 最终新闻 21
+Jan 10, 2016 4:02:32 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 21(1451800800)]
+Jan 10, 2016 4:02:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:02:33 AM Log.Logs info
+INFO:  ---------------------- 1451815200  ------------------------
+Jan 10, 2016 4:02:37 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 54]
+Jan 10, 2016 4:02:37 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:02:37 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:02:38 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1451808000)]
+Jan 10, 2016 4:02:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:02:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:02:39 AM Log.Logs info
+INFO:  ---------------------- 1451822400  ------------------------
+Jan 10, 2016 4:03:08 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 55]
+Jan 10, 2016 4:03:08 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:03:08 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:03:11 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451815200)]
+Jan 10, 2016 4:03:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:03:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:03:12 AM Log.Logs info
+INFO:  ---------------------- 1451829600  ------------------------
+Jan 10, 2016 4:03:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 55]
+Jan 10, 2016 4:03:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:03:16 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:03:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451822400)]
+Jan 10, 2016 4:03:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:03:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:03:18 AM Log.Logs info
+INFO:  ---------------------- 1451836800  ------------------------
+Jan 10, 2016 4:03:22 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 55]
+Jan 10, 2016 4:03:22 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:03:22 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:03:24 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451829600)]
+Jan 10, 2016 4:03:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:03:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:03:25 AM Log.Logs info
+INFO:  ---------------------- 1451844000  ------------------------
+Jan 10, 2016 4:04:21 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 56]
+Jan 10, 2016 4:04:21 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:04:21 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:04:21 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451836800)]
+Jan 10, 2016 4:04:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:04:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 104 ]
+Jan 10, 2016 4:04:56 AM Log.Logs info
+INFO:  ---------------------- 1451937600  ------------------------
+Jan 10, 2016 4:05:01 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 51]
+Jan 10, 2016 4:05:01 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:05:01 AM Log.Logs info
+INFO: 最终新闻 87
+Jan 10, 2016 4:05:15 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 87(1451930400)]
+Jan 10, 2016 4:05:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:05:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 14 ]
+Jan 10, 2016 4:05:18 AM Log.Logs info
+INFO:  ---------------------- 1451944800  ------------------------
+Jan 10, 2016 4:05:24 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 88]
+Jan 10, 2016 4:05:24 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:05:24 AM Log.Logs info
+INFO: 最终新闻 11
+Jan 10, 2016 4:05:27 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 11(1451937600)]
+Jan 10, 2016 4:05:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:05:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:05:30 AM Log.Logs info
+INFO:  ---------------------- 1451952000  ------------------------
+Jan 10, 2016 4:08:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:08:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:09:02 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:09:13 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:09:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:09:16 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:09:22 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:09:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:09:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:09:49 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 4:10:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:10:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:10:57 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:11:04 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:11:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:11:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:11:06 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:13:26 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:13:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:13:37 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 4:13:42 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 168]
+Jan 10, 2016 4:13:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 4:13:44 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 4:13:50 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 153]
+Jan 10, 2016 4:13:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:13:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:14:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:17:42 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:17:49 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:17:49 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:17:49 AM Log.Logs info
+INFO: 最终新闻 30
+Jan 10, 2016 4:17:55 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 30(1451628000)]
+Jan 10, 2016 4:17:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:17:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:17:56 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:18:01 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:18:01 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:18:01 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:18:02 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451635200)]
+Jan 10, 2016 4:18:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:18:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:18:13 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 4:19:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:19:15 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:19:21 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 199]
+Jan 10, 2016 4:19:21 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:19:21 AM Log.Logs info
+INFO: 最终新闻 30
+Jan 10, 2016 4:19:26 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 30(1451628000)]
+Jan 10, 2016 4:19:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:19:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:19:27 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:22:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:22:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:22:38 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:23:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:23:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:23:37 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:25:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:25:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:25:51 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:27:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:27:38 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:27:39 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 92]
+Jan 10, 2016 4:27:39 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:27:39 AM Log.Logs info
+INFO: 最终新闻 46
+Jan 10, 2016 4:27:39 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 46(1451628000)]
+Jan 10, 2016 4:27:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:27:41 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:27:42 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 96]
+Jan 10, 2016 4:27:42 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:27:42 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:27:42 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1451635200)]
+Jan 10, 2016 4:27:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:27:52 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 4:27:53 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 66]
+Jan 10, 2016 4:27:53 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:27:53 AM Log.Logs info
+INFO: 最终新闻 21
+Jan 10, 2016 4:27:53 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 21(1451714400)]
+Jan 10, 2016 4:27:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 4:27:54 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 4:27:55 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 70]
+Jan 10, 2016 4:27:55 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:27:55 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:27:55 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 4:27:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:27:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:28:07 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 4:28:07 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 70]
+Jan 10, 2016 4:28:07 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:07 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:28:08 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451793600)]
+Jan 10, 2016 4:28:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 4:28:10 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 4:28:10 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 40]
+Jan 10, 2016 4:28:10 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:10 AM Log.Logs info
+INFO: 最终新闻 21
+Jan 10, 2016 4:28:10 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 21(1451800800)]
+Jan 10, 2016 4:28:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:28:13 AM Log.Logs info
+INFO:  ---------------------- 1451815200  ------------------------
+Jan 10, 2016 4:28:13 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 39]
+Jan 10, 2016 4:28:13 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:13 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:28:13 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1451808000)]
+Jan 10, 2016 4:28:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:28:16 AM Log.Logs info
+INFO:  ---------------------- 1451822400  ------------------------
+Jan 10, 2016 4:28:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 40]
+Jan 10, 2016 4:28:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:16 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:28:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451815200)]
+Jan 10, 2016 4:28:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:28:18 AM Log.Logs info
+INFO:  ---------------------- 1451829600  ------------------------
+Jan 10, 2016 4:28:19 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 40]
+Jan 10, 2016 4:28:19 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:19 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:28:19 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451822400)]
+Jan 10, 2016 4:28:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:28:21 AM Log.Logs info
+INFO:  ---------------------- 1451836800  ------------------------
+Jan 10, 2016 4:28:22 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 40]
+Jan 10, 2016 4:28:22 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:22 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:28:22 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451829600)]
+Jan 10, 2016 4:28:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:28:24 AM Log.Logs info
+INFO:  ---------------------- 1451844000  ------------------------
+Jan 10, 2016 4:28:25 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 41]
+Jan 10, 2016 4:28:25 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:25 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:28:25 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451836800)]
+Jan 10, 2016 4:28:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 104 ]
+Jan 10, 2016 4:28:56 AM Log.Logs info
+INFO:  ---------------------- 1451937600  ------------------------
+Jan 10, 2016 4:28:57 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 22]
+Jan 10, 2016 4:28:57 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:57 AM Log.Logs info
+INFO: 最终新闻 90
+Jan 10, 2016 4:28:57 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 90(1451930400)]
+Jan 10, 2016 4:28:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:28:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 14 ]
+Jan 10, 2016 4:28:58 AM Log.Logs info
+INFO:  ---------------------- 1451944800  ------------------------
+Jan 10, 2016 4:28:59 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 61]
+Jan 10, 2016 4:28:59 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:28:59 AM Log.Logs info
+INFO: 最终新闻 11
+Jan 10, 2016 4:28:59 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 11(1451937600)]
+Jan 10, 2016 4:28:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:29:00 AM Log.Logs info
+INFO:  ---------------------- 1451952000  ------------------------
+Jan 10, 2016 4:29:00 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 71]
+Jan 10, 2016 4:29:00 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:00 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:29:00 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451944800)]
+Jan 10, 2016 4:29:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 33 ]
+Jan 10, 2016 4:29:05 AM Log.Logs info
+INFO:  ---------------------- 1451966400  ------------------------
+Jan 10, 2016 4:29:06 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 71]
+Jan 10, 2016 4:29:06 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:06 AM Log.Logs info
+INFO: 最终新闻 28
+Jan 10, 2016 4:29:06 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 28(1451959200)]
+Jan 10, 2016 4:29:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 11 ]
+Jan 10, 2016 4:29:08 AM Log.Logs info
+INFO:  ---------------------- 1451973600  ------------------------
+Jan 10, 2016 4:29:09 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 86]
+Jan 10, 2016 4:29:09 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:09 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:29:09 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451966400)]
+Jan 10, 2016 4:29:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 74 ]
+Jan 10, 2016 4:29:12 AM Log.Logs info
+INFO:  ---------------------- 1451980800  ------------------------
+Jan 10, 2016 4:29:12 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 80]
+Jan 10, 2016 4:29:12 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:12 AM Log.Logs info
+INFO: 最终新闻 64
+Jan 10, 2016 4:29:13 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 64(1451973600)]
+Jan 10, 2016 4:29:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:29:15 AM Log.Logs info
+INFO:  ---------------------- 1451988000  ------------------------
+Jan 10, 2016 4:29:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 95]
+Jan 10, 2016 4:29:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:16 AM Log.Logs info
+INFO: 最终新闻 4
+Jan 10, 2016 4:29:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 4(1451980800)]
+Jan 10, 2016 4:29:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:29:18 AM Log.Logs info
+INFO:  ---------------------- 1451995200  ------------------------
+Jan 10, 2016 4:29:19 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 99]
+Jan 10, 2016 4:29:19 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:19 AM Log.Logs info
+INFO: 最终新闻 21
+Jan 10, 2016 4:29:19 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 21(1451988000)]
+Jan 10, 2016 4:29:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 10 ]
+Jan 10, 2016 4:29:21 AM Log.Logs info
+INFO:  ---------------------- 1452002400  ------------------------
+Jan 10, 2016 4:29:22 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 100]
+Jan 10, 2016 4:29:22 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:22 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:29:22 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1451995200)]
+Jan 10, 2016 4:29:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:29:24 AM Log.Logs info
+INFO:  ---------------------- 1452009600  ------------------------
+Jan 10, 2016 4:29:25 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 4:29:25 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:25 AM Log.Logs info
+INFO: 最终新闻 9
+Jan 10, 2016 4:29:25 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 9(1452002400)]
+Jan 10, 2016 4:29:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:29:27 AM Log.Logs info
+INFO:  ---------------------- 1452016800  ------------------------
+Jan 10, 2016 4:29:28 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 4:29:28 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:28 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:29:28 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452009600)]
+Jan 10, 2016 4:29:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:29:30 AM Log.Logs info
+INFO:  ---------------------- 1452024000  ------------------------
+Jan 10, 2016 4:29:31 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 4:29:31 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:31 AM Log.Logs info
+INFO: 最终新闻 13
+Jan 10, 2016 4:29:31 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 13(1452016800)]
+Jan 10, 2016 4:29:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:29:33 AM Log.Logs info
+INFO:  ---------------------- 1452031200  ------------------------
+Jan 10, 2016 4:29:34 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 4:29:34 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:34 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:29:34 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452024000)]
+Jan 10, 2016 4:29:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:29:36 AM Log.Logs info
+INFO:  ---------------------- 1452038400  ------------------------
+Jan 10, 2016 4:29:37 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 4:29:37 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:37 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:29:37 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1452031200)]
+Jan 10, 2016 4:29:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 47 ]
+Jan 10, 2016 4:29:42 AM Log.Logs info
+INFO:  ---------------------- 1452052800  ------------------------
+Jan 10, 2016 4:29:42 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 107]
+Jan 10, 2016 4:29:42 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:42 AM Log.Logs info
+INFO: 最终新闻 40
+Jan 10, 2016 4:29:43 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 40(1452045600)]
+Jan 10, 2016 4:29:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:29:45 AM Log.Logs info
+INFO:  ---------------------- 1452060000  ------------------------
+Jan 10, 2016 4:29:46 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 125]
+Jan 10, 2016 4:29:46 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:46 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:29:46 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452052800)]
+Jan 10, 2016 4:29:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 38 ]
+Jan 10, 2016 4:29:48 AM Log.Logs info
+INFO:  ---------------------- 1452067200  ------------------------
+Jan 10, 2016 4:29:49 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 114]
+Jan 10, 2016 4:29:49 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:49 AM Log.Logs info
+INFO: 最终新闻 31
+Jan 10, 2016 4:29:49 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 31(1452060000)]
+Jan 10, 2016 4:29:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 15 ]
+Jan 10, 2016 4:29:51 AM Log.Logs info
+INFO:  ---------------------- 1452074400  ------------------------
+Jan 10, 2016 4:29:52 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 121]
+Jan 10, 2016 4:29:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:52 AM Log.Logs info
+INFO: 最终新闻 13
+Jan 10, 2016 4:29:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 13(1452067200)]
+Jan 10, 2016 4:29:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 22 ]
+Jan 10, 2016 4:29:55 AM Log.Logs info
+INFO:  ---------------------- 1452081600  ------------------------
+Jan 10, 2016 4:29:55 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 134]
+Jan 10, 2016 4:29:55 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:55 AM Log.Logs info
+INFO: 最终新闻 17
+Jan 10, 2016 4:29:56 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 17(1452074400)]
+Jan 10, 2016 4:29:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:29:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 4:29:58 AM Log.Logs info
+INFO:  ---------------------- 1452088800  ------------------------
+Jan 10, 2016 4:29:59 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 139]
+Jan 10, 2016 4:29:59 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:29:59 AM Log.Logs info
+INFO: 最终新闻 2
+Jan 10, 2016 4:29:59 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 2(1452081600)]
+Jan 10, 2016 4:30:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:30:01 AM Log.Logs info
+INFO:  ---------------------- 1452096000  ------------------------
+Jan 10, 2016 4:30:02 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 140]
+Jan 10, 2016 4:30:02 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:02 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:30:02 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452088800)]
+Jan 10, 2016 4:30:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 2 ]
+Jan 10, 2016 4:30:04 AM Log.Logs info
+INFO:  ---------------------- 1452103200  ------------------------
+Jan 10, 2016 4:30:05 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 140]
+Jan 10, 2016 4:30:05 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:05 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:30:05 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452096000)]
+Jan 10, 2016 4:30:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:30:07 AM Log.Logs info
+INFO:  ---------------------- 1452110400  ------------------------
+Jan 10, 2016 4:30:08 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 140]
+Jan 10, 2016 4:30:08 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:08 AM Log.Logs info
+INFO: 最终新闻 20
+Jan 10, 2016 4:30:08 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 20(1452103200)]
+Jan 10, 2016 4:30:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:30:10 AM Log.Logs info
+INFO:  ---------------------- 1452117600  ------------------------
+Jan 10, 2016 4:30:11 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 140]
+Jan 10, 2016 4:30:11 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:11 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:30:11 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452110400)]
+Jan 10, 2016 4:30:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:30:13 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:30:14 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 140]
+Jan 10, 2016 4:30:14 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:14 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:30:14 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1452117600)]
+Jan 10, 2016 4:30:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 46 ]
+Jan 10, 2016 4:30:19 AM Log.Logs info
+INFO:  ---------------------- 1452139200  ------------------------
+Jan 10, 2016 4:30:20 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 140]
+Jan 10, 2016 4:30:20 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:20 AM Log.Logs info
+INFO: 最终新闻 39
+Jan 10, 2016 4:30:20 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 39(1452132000)]
+Jan 10, 2016 4:30:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 6 ]
+Jan 10, 2016 4:30:22 AM Log.Logs info
+INFO:  ---------------------- 1452146400  ------------------------
+Jan 10, 2016 4:30:23 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 161]
+Jan 10, 2016 4:30:23 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:23 AM Log.Logs info
+INFO: 最终新闻 3
+Jan 10, 2016 4:30:23 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 3(1452139200)]
+Jan 10, 2016 4:30:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 41 ]
+Jan 10, 2016 4:30:26 AM Log.Logs info
+INFO:  ---------------------- 1452153600  ------------------------
+Jan 10, 2016 4:30:26 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 164]
+Jan 10, 2016 4:30:26 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:26 AM Log.Logs info
+INFO: 最终新闻 33
+Jan 10, 2016 4:30:27 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 33(1452146400)]
+Jan 10, 2016 4:30:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 10 ]
+Jan 10, 2016 4:30:29 AM Log.Logs info
+INFO:  ---------------------- 1452160800  ------------------------
+Jan 10, 2016 4:30:30 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 171]
+Jan 10, 2016 4:30:30 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:30 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:30:30 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452153600)]
+Jan 10, 2016 4:30:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:30:32 AM Log.Logs info
+INFO:  ---------------------- 1452168000  ------------------------
+Jan 10, 2016 4:30:33 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 178]
+Jan 10, 2016 4:30:33 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:33 AM Log.Logs info
+INFO: 最终新闻 11
+Jan 10, 2016 4:30:33 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 11(1452160800)]
+Jan 10, 2016 4:30:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 16 ]
+Jan 10, 2016 4:30:36 AM Log.Logs info
+INFO:  ---------------------- 1452175200  ------------------------
+Jan 10, 2016 4:30:37 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 178]
+Jan 10, 2016 4:30:37 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:37 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 4:30:37 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1452168000)]
+Jan 10, 2016 4:30:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:30:39 AM Log.Logs info
+INFO:  ---------------------- 1452182400  ------------------------
+Jan 10, 2016 4:30:40 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 190]
+Jan 10, 2016 4:30:40 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:40 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:30:40 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1452175200)]
+Jan 10, 2016 4:30:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:30:43 AM Log.Logs info
+INFO:  ---------------------- 1452189600  ------------------------
+Jan 10, 2016 4:30:43 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 191]
+Jan 10, 2016 4:30:43 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:43 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:30:43 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452182400)]
+Jan 10, 2016 4:30:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:30:46 AM Log.Logs info
+INFO:  ---------------------- 1452196800  ------------------------
+Jan 10, 2016 4:30:47 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 152]
+Jan 10, 2016 4:30:47 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:47 AM Log.Logs info
+INFO: 最终新闻 16
+Jan 10, 2016 4:30:47 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 16(1452189600)]
+Jan 10, 2016 4:30:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:30:50 AM Log.Logs info
+INFO:  ---------------------- 1452204000  ------------------------
+Jan 10, 2016 4:30:52 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 144]
+Jan 10, 2016 4:30:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:52 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:30:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452196800)]
+Jan 10, 2016 4:30:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 17 ]
+Jan 10, 2016 4:30:55 AM Log.Logs info
+INFO:  ---------------------- 1452211200  ------------------------
+Jan 10, 2016 4:30:57 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 144]
+Jan 10, 2016 4:30:57 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:30:57 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 4:30:57 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1452204000)]
+Jan 10, 2016 4:30:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:30:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 28 ]
+Jan 10, 2016 4:31:02 AM Log.Logs info
+INFO:  ---------------------- 1452225600  ------------------------
+Jan 10, 2016 4:31:02 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 129]
+Jan 10, 2016 4:31:02 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:02 AM Log.Logs info
+INFO: 最终新闻 22
+Jan 10, 2016 4:31:03 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 22(1452218400)]
+Jan 10, 2016 4:31:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 8 ]
+Jan 10, 2016 4:31:05 AM Log.Logs info
+INFO:  ---------------------- 1452232800  ------------------------
+Jan 10, 2016 4:31:06 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 139]
+Jan 10, 2016 4:31:06 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:06 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:31:06 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1452225600)]
+Jan 10, 2016 4:31:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 65 ]
+Jan 10, 2016 4:31:09 AM Log.Logs info
+INFO:  ---------------------- 1452240000  ------------------------
+Jan 10, 2016 4:31:09 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 129]
+Jan 10, 2016 4:31:09 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:09 AM Log.Logs info
+INFO: 最终新闻 53
+Jan 10, 2016 4:31:10 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 53(1452232800)]
+Jan 10, 2016 4:31:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:12 AM Log.Logs info
+INFO: SQLInfo [ Load News 16 ]
+Jan 10, 2016 4:31:12 AM Log.Logs info
+INFO:  ---------------------- 1452247200  ------------------------
+Jan 10, 2016 4:31:13 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 133]
+Jan 10, 2016 4:31:13 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:13 AM Log.Logs info
+INFO: 最终新闻 13
+Jan 10, 2016 4:31:13 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 13(1452240000)]
+Jan 10, 2016 4:31:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:16 AM Log.Logs info
+INFO: SQLInfo [ Load News 28 ]
+Jan 10, 2016 4:31:16 AM Log.Logs info
+INFO:  ---------------------- 1452254400  ------------------------
+Jan 10, 2016 4:31:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 145]
+Jan 10, 2016 4:31:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:16 AM Log.Logs info
+INFO: 最终新闻 22
+Jan 10, 2016 4:31:17 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 22(1452247200)]
+Jan 10, 2016 4:31:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 11 ]
+Jan 10, 2016 4:31:19 AM Log.Logs info
+INFO:  ---------------------- 1452261600  ------------------------
+Jan 10, 2016 4:31:20 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 141]
+Jan 10, 2016 4:31:20 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:20 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:31:20 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1452254400)]
+Jan 10, 2016 4:31:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:31:22 AM Log.Logs info
+INFO:  ---------------------- 1452268800  ------------------------
+Jan 10, 2016 4:31:23 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 149]
+Jan 10, 2016 4:31:23 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:23 AM Log.Logs info
+INFO: 最终新闻 9
+Jan 10, 2016 4:31:23 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 9(1452261600)]
+Jan 10, 2016 4:31:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:31:26 AM Log.Logs info
+INFO:  ---------------------- 1452276000  ------------------------
+Jan 10, 2016 4:31:26 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:31:26 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:26 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:31:26 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452268800)]
+Jan 10, 2016 4:31:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 256 ]
+Jan 10, 2016 4:31:30 AM Log.Logs info
+INFO:  ---------------------- 1452283200  ------------------------
+Jan 10, 2016 4:31:31 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:31:31 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:31 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:31:31 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452276000)]
+Jan 10, 2016 4:31:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 4 ]
+Jan 10, 2016 4:31:33 AM Log.Logs info
+INFO:  ---------------------- 1452290400  ------------------------
+Jan 10, 2016 4:31:34 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:31:34 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:34 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:31:34 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1452283200)]
+Jan 10, 2016 4:31:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 139 ]
+Jan 10, 2016 4:31:37 AM Log.Logs info
+INFO:  ---------------------- 1452297600  ------------------------
+Jan 10, 2016 4:31:38 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:31:38 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:38 AM Log.Logs info
+INFO: 最终新闻 46
+Jan 10, 2016 4:31:39 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 46(1452290400)]
+Jan 10, 2016 4:31:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:31:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 283 ]
+Jan 10, 2016 4:31:46 AM Log.Logs info
+INFO:  ---------------------- 1452312000  ------------------------
+Jan 10, 2016 4:31:47 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 132]
+Jan 10, 2016 4:31:47 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:31:47 AM Log.Logs info
+INFO: 最终新闻 107
+Jan 10, 2016 4:32:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:14 AM Log.Logs info
+INFO: SQLInfo [ Load News 52 ]
+Jan 10, 2016 4:32:14 AM Log.Logs info
+INFO:  ---------------------- 1451635200  ------------------------
+Jan 10, 2016 4:32:15 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 377]
+Jan 10, 2016 4:32:15 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:15 AM Log.Logs info
+INFO: 最终新闻 31
+Jan 10, 2016 4:32:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 31(1451628000)]
+Jan 10, 2016 4:32:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:32:17 AM Log.Logs info
+INFO:  ---------------------- 1451642400  ------------------------
+Jan 10, 2016 4:32:19 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 366]
+Jan 10, 2016 4:32:19 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:19 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:32:19 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451635200)]
+Jan 10, 2016 4:32:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:32:30 AM Log.Logs info
+INFO:  ---------------------- 1451721600  ------------------------
+Jan 10, 2016 4:32:31 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 332]
+Jan 10, 2016 4:32:31 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:31 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 4:32:31 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1451714400)]
+Jan 10, 2016 4:32:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 4:32:33 AM Log.Logs info
+INFO:  ---------------------- 1451728800  ------------------------
+Jan 10, 2016 4:32:34 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 327]
+Jan 10, 2016 4:32:34 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:34 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:32:34 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451721600)]
+Jan 10, 2016 4:32:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:32:43 AM Log.Logs info
+INFO:  ---------------------- 1451800800  ------------------------
+Jan 10, 2016 4:32:44 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 327]
+Jan 10, 2016 4:32:44 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:44 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:32:44 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451793600)]
+Jan 10, 2016 4:32:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 26 ]
+Jan 10, 2016 4:32:46 AM Log.Logs info
+INFO:  ---------------------- 1451808000  ------------------------
+Jan 10, 2016 4:32:47 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 297]
+Jan 10, 2016 4:32:47 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:47 AM Log.Logs info
+INFO: 最终新闻 10
+Jan 10, 2016 4:32:47 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 10(1451800800)]
+Jan 10, 2016 4:32:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:32:48 AM Log.Logs info
+INFO:  ---------------------- 1451815200  ------------------------
+Jan 10, 2016 4:32:49 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 285]
+Jan 10, 2016 4:32:49 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:49 AM Log.Logs info
+INFO: 最终新闻 4
+Jan 10, 2016 4:32:49 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 4(1451808000)]
+Jan 10, 2016 4:32:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:50 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:32:50 AM Log.Logs info
+INFO:  ---------------------- 1451822400  ------------------------
+Jan 10, 2016 4:32:52 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 285]
+Jan 10, 2016 4:32:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:52 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:32:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1451815200)]
+Jan 10, 2016 4:32:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:32:53 AM Log.Logs info
+INFO:  ---------------------- 1451829600  ------------------------
+Jan 10, 2016 4:32:54 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 285]
+Jan 10, 2016 4:32:54 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:54 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:32:54 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451822400)]
+Jan 10, 2016 4:32:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:32:55 AM Log.Logs info
+INFO:  ---------------------- 1451836800  ------------------------
+Jan 10, 2016 4:32:56 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 285]
+Jan 10, 2016 4:32:56 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:56 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:32:56 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1451829600)]
+Jan 10, 2016 4:32:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:32:57 AM Log.Logs info
+INFO:  ---------------------- 1451844000  ------------------------
+Jan 10, 2016 4:32:58 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 285]
+Jan 10, 2016 4:32:58 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:32:58 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:32:58 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451836800)]
+Jan 10, 2016 4:32:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:32:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 104 ]
+Jan 10, 2016 4:33:11 AM Log.Logs info
+INFO:  ---------------------- 1451937600  ------------------------
+Jan 10, 2016 4:33:12 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 266]
+Jan 10, 2016 4:33:12 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:12 AM Log.Logs info
+INFO: 最终新闻 49
+Jan 10, 2016 4:33:12 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 49(1451930400)]
+Jan 10, 2016 4:33:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 14 ]
+Jan 10, 2016 4:33:13 AM Log.Logs info
+INFO:  ---------------------- 1451944800  ------------------------
+Jan 10, 2016 4:33:14 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 266]
+Jan 10, 2016 4:33:14 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:14 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:33:14 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1451937600)]
+Jan 10, 2016 4:33:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:33:15 AM Log.Logs info
+INFO:  ---------------------- 1451952000  ------------------------
+Jan 10, 2016 4:33:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 266]
+Jan 10, 2016 4:33:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:16 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:33:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1451944800)]
+Jan 10, 2016 4:33:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 33 ]
+Jan 10, 2016 4:33:19 AM Log.Logs info
+INFO:  ---------------------- 1451966400  ------------------------
+Jan 10, 2016 4:33:20 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 266]
+Jan 10, 2016 4:33:20 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:20 AM Log.Logs info
+INFO: 最终新闻 13
+Jan 10, 2016 4:33:20 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 13(1451959200)]
+Jan 10, 2016 4:33:20 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 11 ]
+Jan 10, 2016 4:33:21 AM Log.Logs info
+INFO:  ---------------------- 1451973600  ------------------------
+Jan 10, 2016 4:33:22 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 266]
+Jan 10, 2016 4:33:22 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:22 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:33:22 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1451966400)]
+Jan 10, 2016 4:33:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 74 ]
+Jan 10, 2016 4:33:23 AM Log.Logs info
+INFO:  ---------------------- 1451980800  ------------------------
+Jan 10, 2016 4:33:24 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:24 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:24 AM Log.Logs info
+INFO: 最终新闻 47
+Jan 10, 2016 4:33:24 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 47(1451973600)]
+Jan 10, 2016 4:33:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 7 ]
+Jan 10, 2016 4:33:25 AM Log.Logs info
+INFO:  ---------------------- 1451988000  ------------------------
+Jan 10, 2016 4:33:26 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:26 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:26 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:26 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451980800)]
+Jan 10, 2016 4:33:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:33:27 AM Log.Logs info
+INFO:  ---------------------- 1451995200  ------------------------
+Jan 10, 2016 4:33:28 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:28 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:28 AM Log.Logs info
+INFO: 最终新闻 19
+Jan 10, 2016 4:33:29 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 19(1451988000)]
+Jan 10, 2016 4:33:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 10 ]
+Jan 10, 2016 4:33:30 AM Log.Logs info
+INFO:  ---------------------- 1452002400  ------------------------
+Jan 10, 2016 4:33:31 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:31 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:31 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:31 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1451995200)]
+Jan 10, 2016 4:33:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:33:32 AM Log.Logs info
+INFO:  ---------------------- 1452009600  ------------------------
+Jan 10, 2016 4:33:32 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:32 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:32 AM Log.Logs info
+INFO: 最终新闻 9
+Jan 10, 2016 4:33:33 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 9(1452002400)]
+Jan 10, 2016 4:33:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:34 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:33:34 AM Log.Logs info
+INFO:  ---------------------- 1452016800  ------------------------
+Jan 10, 2016 4:33:34 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:34 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:34 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:34 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452009600)]
+Jan 10, 2016 4:33:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:33:35 AM Log.Logs info
+INFO:  ---------------------- 1452024000  ------------------------
+Jan 10, 2016 4:33:36 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:36 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:36 AM Log.Logs info
+INFO: 最终新闻 13
+Jan 10, 2016 4:33:37 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 13(1452016800)]
+Jan 10, 2016 4:33:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:33:37 AM Log.Logs info
+INFO:  ---------------------- 1452031200  ------------------------
+Jan 10, 2016 4:33:38 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:38 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:38 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:38 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452024000)]
+Jan 10, 2016 4:33:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:33:39 AM Log.Logs info
+INFO:  ---------------------- 1452038400  ------------------------
+Jan 10, 2016 4:33:40 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:40 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:40 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:33:40 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1452031200)]
+Jan 10, 2016 4:33:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 47 ]
+Jan 10, 2016 4:33:43 AM Log.Logs info
+INFO:  ---------------------- 1452052800  ------------------------
+Jan 10, 2016 4:33:43 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:43 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:43 AM Log.Logs info
+INFO: 最终新闻 22
+Jan 10, 2016 4:33:44 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 22(1452045600)]
+Jan 10, 2016 4:33:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:45 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:33:45 AM Log.Logs info
+INFO:  ---------------------- 1452060000  ------------------------
+Jan 10, 2016 4:33:46 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 257]
+Jan 10, 2016 4:33:46 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:46 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:46 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452052800)]
+Jan 10, 2016 4:33:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:47 AM Log.Logs info
+INFO: SQLInfo [ Load News 38 ]
+Jan 10, 2016 4:33:47 AM Log.Logs info
+INFO:  ---------------------- 1452067200  ------------------------
+Jan 10, 2016 4:33:48 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 246]
+Jan 10, 2016 4:33:48 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:48 AM Log.Logs info
+INFO: 最终新闻 22
+Jan 10, 2016 4:33:48 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 22(1452060000)]
+Jan 10, 2016 4:33:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 15 ]
+Jan 10, 2016 4:33:49 AM Log.Logs info
+INFO:  ---------------------- 1452074400  ------------------------
+Jan 10, 2016 4:33:50 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 245]
+Jan 10, 2016 4:33:50 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:50 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:50 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452067200)]
+Jan 10, 2016 4:33:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 22 ]
+Jan 10, 2016 4:33:51 AM Log.Logs info
+INFO:  ---------------------- 1452081600  ------------------------
+Jan 10, 2016 4:33:52 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 245]
+Jan 10, 2016 4:33:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:52 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 4:33:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1452074400)]
+Jan 10, 2016 4:33:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 5 ]
+Jan 10, 2016 4:33:53 AM Log.Logs info
+INFO:  ---------------------- 1452088800  ------------------------
+Jan 10, 2016 4:33:54 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 245]
+Jan 10, 2016 4:33:54 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:54 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:54 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452081600)]
+Jan 10, 2016 4:33:55 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:33:56 AM Log.Logs info
+INFO:  ---------------------- 1452096000  ------------------------
+Jan 10, 2016 4:33:57 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:33:57 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:57 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:33:57 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452088800)]
+Jan 10, 2016 4:33:57 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:33:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 2 ]
+Jan 10, 2016 4:33:58 AM Log.Logs info
+INFO:  ---------------------- 1452103200  ------------------------
+Jan 10, 2016 4:33:59 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:33:59 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:33:59 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:33:59 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452096000)]
+Jan 10, 2016 4:33:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 25 ]
+Jan 10, 2016 4:34:00 AM Log.Logs info
+INFO:  ---------------------- 1452110400  ------------------------
+Jan 10, 2016 4:34:01 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:01 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:01 AM Log.Logs info
+INFO: 最终新闻 19
+Jan 10, 2016 4:34:01 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 19(1452103200)]
+Jan 10, 2016 4:34:01 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:34:02 AM Log.Logs info
+INFO:  ---------------------- 1452117600  ------------------------
+Jan 10, 2016 4:34:03 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:03 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:03 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:03 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452110400)]
+Jan 10, 2016 4:34:03 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:34:04 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:34:05 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:05 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:05 AM Log.Logs info
+INFO: 最终新闻 5
+Jan 10, 2016 4:34:05 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 5(1452117600)]
+Jan 10, 2016 4:34:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 46 ]
+Jan 10, 2016 4:34:07 AM Log.Logs info
+INFO:  ---------------------- 1452139200  ------------------------
+Jan 10, 2016 4:34:08 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:08 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:08 AM Log.Logs info
+INFO: 最终新闻 17
+Jan 10, 2016 4:34:08 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 17(1452132000)]
+Jan 10, 2016 4:34:08 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 6 ]
+Jan 10, 2016 4:34:09 AM Log.Logs info
+INFO:  ---------------------- 1452146400  ------------------------
+Jan 10, 2016 4:34:10 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:10 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:10 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:10 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452139200)]
+Jan 10, 2016 4:34:10 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:11 AM Log.Logs info
+INFO: SQLInfo [ Load News 41 ]
+Jan 10, 2016 4:34:11 AM Log.Logs info
+INFO:  ---------------------- 1452153600  ------------------------
+Jan 10, 2016 4:34:12 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:12 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:12 AM Log.Logs info
+INFO: 最终新闻 25
+Jan 10, 2016 4:34:12 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 25(1452146400)]
+Jan 10, 2016 4:34:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:13 AM Log.Logs info
+INFO: SQLInfo [ Load News 10 ]
+Jan 10, 2016 4:34:13 AM Log.Logs info
+INFO:  ---------------------- 1452160800  ------------------------
+Jan 10, 2016 4:34:14 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:14 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:14 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:14 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452153600)]
+Jan 10, 2016 4:34:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:15 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:34:15 AM Log.Logs info
+INFO:  ---------------------- 1452168000  ------------------------
+Jan 10, 2016 4:34:16 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:16 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:16 AM Log.Logs info
+INFO: 最终新闻 11
+Jan 10, 2016 4:34:16 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 11(1452160800)]
+Jan 10, 2016 4:34:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:17 AM Log.Logs info
+INFO: SQLInfo [ Load News 16 ]
+Jan 10, 2016 4:34:17 AM Log.Logs info
+INFO:  ---------------------- 1452175200  ------------------------
+Jan 10, 2016 4:34:18 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:18 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:18 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:18 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452168000)]
+Jan 10, 2016 4:34:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 12 ]
+Jan 10, 2016 4:34:19 AM Log.Logs info
+INFO:  ---------------------- 1452182400  ------------------------
+Jan 10, 2016 4:34:20 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:20 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:20 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:34:20 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452175200)]
+Jan 10, 2016 4:34:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:21 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:34:21 AM Log.Logs info
+INFO:  ---------------------- 1452189600  ------------------------
+Jan 10, 2016 4:34:22 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:34:22 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:22 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:22 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452182400)]
+Jan 10, 2016 4:34:22 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:23 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:34:23 AM Log.Logs info
+INFO:  ---------------------- 1452196800  ------------------------
+Jan 10, 2016 4:34:24 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 205]
+Jan 10, 2016 4:34:24 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:24 AM Log.Logs info
+INFO: 最终新闻 14
+Jan 10, 2016 4:34:24 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 14(1452189600)]
+Jan 10, 2016 4:34:24 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:25 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:34:25 AM Log.Logs info
+INFO:  ---------------------- 1452204000  ------------------------
+Jan 10, 2016 4:34:25 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 195]
+Jan 10, 2016 4:34:25 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:25 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:25 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452196800)]
+Jan 10, 2016 4:34:26 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:27 AM Log.Logs info
+INFO: SQLInfo [ Load News 17 ]
+Jan 10, 2016 4:34:27 AM Log.Logs info
+INFO:  ---------------------- 1452211200  ------------------------
+Jan 10, 2016 4:34:27 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 195]
+Jan 10, 2016 4:34:27 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:27 AM Log.Logs info
+INFO: 最终新闻 12
+Jan 10, 2016 4:34:27 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 12(1452204000)]
+Jan 10, 2016 4:34:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:29 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:30 AM Log.Logs info
+INFO: SQLInfo [ Load News 28 ]
+Jan 10, 2016 4:34:30 AM Log.Logs info
+INFO:  ---------------------- 1452225600  ------------------------
+Jan 10, 2016 4:34:30 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 180]
+Jan 10, 2016 4:34:30 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:30 AM Log.Logs info
+INFO: 最终新闻 9
+Jan 10, 2016 4:34:30 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 9(1452218400)]
+Jan 10, 2016 4:34:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:31 AM Log.Logs info
+INFO: SQLInfo [ Load News 8 ]
+Jan 10, 2016 4:34:31 AM Log.Logs info
+INFO:  ---------------------- 1452232800  ------------------------
+Jan 10, 2016 4:34:32 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 177]
+Jan 10, 2016 4:34:32 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:32 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:32 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452225600)]
+Jan 10, 2016 4:34:32 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 65 ]
+Jan 10, 2016 4:34:33 AM Log.Logs info
+INFO:  ---------------------- 1452240000  ------------------------
+Jan 10, 2016 4:34:34 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 162]
+Jan 10, 2016 4:34:34 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:34 AM Log.Logs info
+INFO: 最终新闻 45
+Jan 10, 2016 4:34:34 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 45(1452232800)]
+Jan 10, 2016 4:34:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 16 ]
+Jan 10, 2016 4:34:35 AM Log.Logs info
+INFO:  ---------------------- 1452247200  ------------------------
+Jan 10, 2016 4:34:36 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 158]
+Jan 10, 2016 4:34:36 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:36 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:36 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452240000)]
+Jan 10, 2016 4:34:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:37 AM Log.Logs info
+INFO: SQLInfo [ Load News 28 ]
+Jan 10, 2016 4:34:37 AM Log.Logs info
+INFO:  ---------------------- 1452254400  ------------------------
+Jan 10, 2016 4:34:38 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 157]
+Jan 10, 2016 4:34:38 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:38 AM Log.Logs info
+INFO: 最终新闻 19
+Jan 10, 2016 4:34:38 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 19(1452247200)]
+Jan 10, 2016 4:34:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 11 ]
+Jan 10, 2016 4:34:39 AM Log.Logs info
+INFO:  ---------------------- 1452261600  ------------------------
+Jan 10, 2016 4:34:40 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:34:40 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:40 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:40 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452254400)]
+Jan 10, 2016 4:34:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:41 AM Log.Logs info
+INFO: SQLInfo [ Load News 13 ]
+Jan 10, 2016 4:34:41 AM Log.Logs info
+INFO:  ---------------------- 1452268800  ------------------------
+Jan 10, 2016 4:34:41 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:34:41 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:41 AM Log.Logs info
+INFO: 最终新闻 8
+Jan 10, 2016 4:34:41 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 8(1452261600)]
+Jan 10, 2016 4:34:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 3 ]
+Jan 10, 2016 4:34:42 AM Log.Logs info
+INFO:  ---------------------- 1452276000  ------------------------
+Jan 10, 2016 4:34:43 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:34:43 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:43 AM Log.Logs info
+INFO: 最终新闻 0
+Jan 10, 2016 4:34:43 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 0(1452268800)]
+Jan 10, 2016 4:34:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:46 AM Log.Logs info
+INFO: SQLInfo [ Load News 256 ]
+Jan 10, 2016 4:34:46 AM Log.Logs info
+INFO:  ---------------------- 1452283200  ------------------------
+Jan 10, 2016 4:34:47 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:34:47 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:47 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:34:47 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452276000)]
+Jan 10, 2016 4:34:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:48 AM Log.Logs info
+INFO: SQLInfo [ Load News 4 ]
+Jan 10, 2016 4:34:48 AM Log.Logs info
+INFO:  ---------------------- 1452290400  ------------------------
+Jan 10, 2016 4:34:49 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:34:49 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:49 AM Log.Logs info
+INFO: 最终新闻 1
+Jan 10, 2016 4:34:49 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 1(1452283200)]
+Jan 10, 2016 4:34:49 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:51 AM Log.Logs info
+INFO: SQLInfo [ Load News 139 ]
+Jan 10, 2016 4:34:51 AM Log.Logs info
+INFO:  ---------------------- 1452297600  ------------------------
+Jan 10, 2016 4:34:52 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 150]
+Jan 10, 2016 4:34:52 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:34:52 AM Log.Logs info
+INFO: 最终新闻 46
+Jan 10, 2016 4:34:52 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 46(1452290400)]
+Jan 10, 2016 4:34:52 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:53 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:34:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 283 ]
+Jan 10, 2016 4:34:56 AM Log.Logs info
+INFO:  ---------------------- 1452312000  ------------------------
+Jan 10, 2016 4:36:33 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:36:33 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:36:34 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 244]
+Jan 10, 2016 4:36:34 AM Log.Logs info
+INFO: 最终新闻 9
+Jan 10, 2016 4:36:34 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 9(1452117600)]
+Jan 10, 2016 4:36:35 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:38 AM Log.Logs info
+INFO: SQLInfo [ Load News 46 ]
+Jan 10, 2016 4:36:38 AM Log.Logs info
+INFO:  ---------------------- 1452139200  ------------------------
+Jan 10, 2016 4:36:39 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 246]
+Jan 10, 2016 4:36:39 AM Log.Logs info
+INFO: 最终新闻 46
+Jan 10, 2016 4:36:39 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 46(1452132000)]
+Jan 10, 2016 4:36:39 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:40 AM Log.Logs info
+INFO: SQLInfo [ Load News 6 ]
+Jan 10, 2016 4:36:40 AM Log.Logs info
+INFO:  ---------------------- 1452146400  ------------------------
+Jan 10, 2016 4:36:41 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 272]
+Jan 10, 2016 4:36:41 AM Log.Logs info
+INFO: 最终新闻 6
+Jan 10, 2016 4:36:41 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 6(1452139200)]
+Jan 10, 2016 4:36:42 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 41 ]
+Jan 10, 2016 4:36:43 AM Log.Logs info
+INFO:  ---------------------- 1452153600  ------------------------
+Jan 10, 2016 4:36:44 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 278]
+Jan 10, 2016 4:36:44 AM Log.Logs info
+INFO: 最终新闻 41
+Jan 10, 2016 4:36:44 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 41(1452146400)]
+Jan 10, 2016 4:36:44 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:56 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:36:56 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:36:57 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 289]
+Jan 10, 2016 4:36:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:58 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:36:59 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:37:00 AM Log.Logs info
+INFO: SQLInfo [ Load News 46 ]
+Jan 10, 2016 4:37:00 AM Log.Logs info
+INFO:  ---------------------- 1452139200  ------------------------
+Jan 10, 2016 4:37:01 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 289]
+Jan 10, 2016 4:37:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:37:02 AM Log.Logs info
+INFO: SQLInfo [ Load News 6 ]
+Jan 10, 2016 4:37:02 AM Log.Logs info
+INFO:  ---------------------- 1452146400  ------------------------
+Jan 10, 2016 4:37:03 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 289]
+Jan 10, 2016 4:37:04 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:37:05 AM Log.Logs info
+INFO: SQLInfo [ Load News 41 ]
+Jan 10, 2016 4:37:05 AM Log.Logs info
+INFO:  ---------------------- 1452153600  ------------------------
+Jan 10, 2016 4:37:06 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 289]
+Jan 10, 2016 4:37:06 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:37:07 AM Log.Logs info
+INFO: SQLInfo [ Load News 10 ]
+Jan 10, 2016 4:37:07 AM Log.Logs info
+INFO:  ---------------------- 1452160800  ------------------------
+Jan 10, 2016 4:37:08 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 289]
+Jan 10, 2016 4:37:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:37:09 AM Log.Logs info
+INFO: SQLInfo [ Load News 18 ]
+Jan 10, 2016 4:37:09 AM Log.Logs info
+INFO:  ---------------------- 1452168000  ------------------------
+Jan 10, 2016 4:39:43 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:39:43 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:39:54 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 0]
+Jan 10, 2016 4:40:03 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:40:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:40:18 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:40:19 AM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Jan 10, 2016 4:40:36 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:40:36 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:41:59 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 0]
+Jan 10, 2016 4:43:11 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:43:14 AM Log.Logs info
+INFO: 最终新闻 7
+Jan 10, 2016 4:43:14 AM Log.Logs info
+INFO: MongoInfo [ SaveNews: 7(1452117600)]
+Jan 10, 2016 4:45:54 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:45:54 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Jan 10, 2016 4:46:04 AM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 2]
+Jan 10, 2016 4:46:53 AM Log.Logs info
+INFO: remover updated
+Jan 10, 2016 4:49:28 AM Log.Logs info
+INFO: SQLInfo [ Load News 9 ]
+Jan 10, 2016 4:49:28 AM Log.Logs info
+INFO:  ---------------------- 1452124800  ------------------------
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO:  ---------------------- 1456409011  ------------------------
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO:  ---------------------- 1456412611  ------------------------
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO:  ---------------------- 1456416211  ------------------------
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO: SQLInfo [ Load News 0 ]
+Mar 04, 2016 3:27:16 PM Log.Logs info
+INFO:  ---------------------- 1456419811  ------------------------
+Mar 04, 2016 3:27:19 PM Log.Logs info
+INFO: SQLInfo [ Load News 22 ]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: FilterDict Info [ Load Filter Words 403606]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: HSInfo [Load Word Dictionary 403606]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: MongoInfo [ LoadPastNews: 0]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: MongoInfo [ KeywordsLoaded: 7]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: MongoInfo [ DocmentInfoLoaded: 7]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: MongoInfo [ Load Category: 7 ]
+Mar 04, 2016 3:27:21 PM Log.Logs info
+INFO: remover updated

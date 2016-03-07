@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Huasheng_en:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Huasheng_en_jar</output-path>
+    <root id="archive" name="Huasheng_en.jar">
+      <element id="module-output" name="Huasheng_en" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mongo-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jieba-analysis-0.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql-connector-java-5.0.8-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
